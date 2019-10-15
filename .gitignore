@@ -1,0 +1,9 @@
+#Python
+*.py[cod]
+*.so
+*.ipynb
+*.egg
+*.pkl
+*.ipynb*
+dist
+build
